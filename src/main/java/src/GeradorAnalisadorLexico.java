@@ -4,7 +4,7 @@ import java.nio.file.Paths;
 
 public class GeradorAnalisadorLexico {
 	
-	public static void main(String[] args) {
+	public static void mainx(String[] args) {
 		
 		String rootPath = Paths.get("").toAbsolutePath().toString();
 		String subPath = "/src/main/java/src/";

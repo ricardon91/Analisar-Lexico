@@ -6,7 +6,6 @@ import java.io.StringReader;
 public class TesteAnalisadorLexico {
 
 	public static void main(String[] args) throws IOException{
-		
 		String expr = "if (i=0; i<=5; i++)"
 						+ "else 2 + 3+a*5/4-16 then";
 		
